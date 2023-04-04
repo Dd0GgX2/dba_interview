@@ -14,7 +14,7 @@ Write SQL statements to answer each question below. The sql statements you write
 3. Write a script that returns only the customer name and the total amount of the products each customer purchased.
 4. Filter question 3 for customers who spent over $50.
 5. Write a script that returns only the last name of the customer, the product name, and the transaction times of transactions that took place between March 1st and March 10th. Alphabatize the result.
-6. Update the Volleyball class to start at 12pm on July 4th, 2015 and end at 4pm on July 4th, 2015. (TIP: To update data in sql fiddle, paste your update statment at the bottom of the schema window on the left)
+6. Update the Volleyball class to start at 12pm on July 4th, 2015 and end at 4pm on July 4th, 2015.
 7. Write a script to return all customers who have not made a transaction.
 8. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why?
 9. Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
