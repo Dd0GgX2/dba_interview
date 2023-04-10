@@ -21,7 +21,7 @@ Write SQL statements to answer each question below. The sql statements you write
 
 
 
-## Bonus Points
+### Bonus Points
 Answering these questions is not necessary, but would be impressive. 
 
 1. Code Troubleshooting
