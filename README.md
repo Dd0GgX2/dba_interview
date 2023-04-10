@@ -17,7 +17,8 @@ Write SQL statements to answer each question below. The sql statements you write
 6. Update the Volleyball class to start at 12pm on July 4th, 2015 and end at 4pm on July 4th, 2015.
 7. Write a script to return all customers who have not made a transaction.
 8. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why?
-9. Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
+9. Write a script that searches the customers table for possible duplicates. 
+10. Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
 
 
 
