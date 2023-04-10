@@ -19,15 +19,19 @@ Write SQL statements to answer each question below. The sql statements you write
 8. George Bush registered for the Jetski class, but is not showing up on the roster for the Jetski class. Why?
 9. Store SQL scripts you used to answer the above in a file and commit it back to this repo in a folder labeled as follows: yourname_interview_homework (Tip: you may use any resource at your disposal if you are unfamilar with how to make a commit to a git repo)
 
-### Code Troubleshooting
-The monitoring service contains a job that queries a database to gather information pertaining to database activity. Email.pdf is sent every Monday morning and contains information for the last 7 days. In testing, an engineer noticed that the summary portion of the email reported incorrect values.
+
+
+## Bonus Points
+Answering these questions is not necessary, but would be impressive. 
+
+1. Code Troubleshooting
+The monitoring service contains a job that queries a database to gather information pertaining to database activity. An email is sent every Monday morning and contains information for the last 7 days. In testing, an engineer noticed that the summary portion of the email reported incorrect values.
 In essence, the summary portion of the email did not equal the sum of the appropriate detail sections at the bottom of the email.
 
 Attached is a ruby file that generates this email.
 
 Debug this file and suggest changes that would resolve this bug. The issue is contained in the semantics of this individual file – you do not need the code of the class this class extends, info about the database, or info about the connection to that database.
 
-### Bonus Points
-Answering this question is not necessary, but would be impressive. This can be written in any language, the quality of your work is more important than the language you use.
+2. This can be written in any language, the quality of your work is more important than the language you use.
 
 Write a script that takes in a command line parameter and opens a browser to the Amazon search page for the parameter input.
